@@ -1,0 +1,3 @@
+name: DynamicWhitelist
+main: net.falesnik.minecraft.DynamicWhitelist.DynamicWhitelist
+version: 1.0
